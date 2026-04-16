@@ -95,3 +95,58 @@ ROW_NUMBER() OVER (PARTITION BY ... ORDER BY ...)
 
 ## ✅ Final Step
 The data has been successfully cleaned and transformed into an analysis-ready format, enabling accurate insights and data-driven decision-making.
+
+---
+
+## 🔍 Key Insights
+- Raw housing data contained inconsistencies such as missing values, duplicate records and inconsistent formats  
+- Standardizing date formats improved data consistency and usability  
+- Splitting address fields into separate columns enhanced data clarity and usability  
+- Cleaning categorical values (Yes/No) improved readability and analysis  
+- Removing duplicates ensured data accuracy and reliability  
+
+---
+
+## 💼 Business Impact
+- Provides a clean and reliable dataset for accurate analysis  
+- Improves data quality for reporting and visualization  
+- Reduces time required for downstream data processing  
+- Enables better decision-making using structured data  
+
+---
+
+## 🛠 Tools Used
+- SQL Server (SSMS)  
+- SQL  
+
+---
+
+## 📂 Repository Structure
+```
+nashville-housing-data-cleaning-sql/
+│
+├── dataset/
+│   └── nashville_housing_raw.xlsx
+│
+├── sql/
+│   └── data_cleaning_nashville.sql
+│
+├── docs/
+│   └── data_catalog.md
+│
+├── README.md
+└── .gitignore
+```
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Sumit Sutar**. An experienced Data Analyst who uncovers hidden trends, patterns and anomalies and leverages business intelligence to generate insights, improve operational efficiency and drive organizational growth.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitsutar2507)
