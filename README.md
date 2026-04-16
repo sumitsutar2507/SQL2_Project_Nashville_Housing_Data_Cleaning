@@ -129,7 +129,7 @@ nashville-housing-data-cleaning-sql/
 │   └── nashville_housing_raw.xlsx
 │
 ├── sql/
-│   └── data_cleaning_nashville.sql
+│   └── SQLQuery2=Data Cleaning on Nashville Housing Data.sql
 │
 ├── docs/
 │   └── data_catalog.md
