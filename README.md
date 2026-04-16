@@ -90,3 +90,8 @@ ROW_NUMBER() OVER (PARTITION BY ... ORDER BY ...)
 
 ### 🔹 6. Delete Unused Columns
 - Used `DROP COLUMN` statement
+
+---
+
+## ✅ Final Step
+The data has been successfully cleaned and transformed into an analysis-ready format, enabling accurate insights and data-driven decision-making.
